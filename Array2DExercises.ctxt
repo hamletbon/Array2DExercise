@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=a
+comment0.target=int\ max(int[][])
+comment1.params=a\ x
+comment1.target=int\ rowSum(int[][],\ int)
+comment2.params=a\ x
+comment2.target=int\ columnSum(int[][],\ int)
+comment3.params=a
+comment3.target=int[]\ allRowSums(int[][])
+comment4.params=a
+comment4.target=boolean\ isRowMagic(int[][])
+comment5.params=a
+comment5.target=boolean\ isColumnMagic(int[][])
+comment6.params=a
+comment6.target=boolean\ isSquare(int[][])
+comment7.params=a
+comment7.target=boolean\ isMagic(int[][])
+comment8.params=a
+comment8.target=boolean\ isLatin(int[][])
+comment9.params=a
+comment9.target=boolean\ isSequence(int[][])
+numComments=10
